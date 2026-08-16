@@ -1,0 +1,3 @@
+WHITE STONE V2 ADMIN CLEAN BUILD
+index.html is at deployment root.
+Expected bottom navigation: Gallery / Favorites / New / Admin

@@ -1,0 +1,2 @@
+WHITE STONE V3 ADMIN — BUILD 2026-08-15
+If this file appears in Netlify Deploy file browser, the V3 package was deployed.

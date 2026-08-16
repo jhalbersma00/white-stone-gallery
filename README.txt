@@ -1,0 +1,1 @@
+White Stone V2 + Admin prototype. Admin edits are local to the device for safe workflow testing. Real multi-device publishing requires the next cloud-backend phase.
